@@ -56,3 +56,5 @@ Estrutura do repositório
 Conclusão
 
 A publicação do site estático na Azure demonstra de forma prática como utilizar um serviço simples da nuvem para hospedar páginas. Essa atividade ajuda a entender os conceitos básicos de grupos de recursos, contas de armazenamento e opções de redundância.
+
+Link para o site -> https://storagedesafioxxx.z20.web.core.windows.net/ :)
